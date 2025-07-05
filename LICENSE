@@ -1,0 +1,97 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2025 OpenText Application Security (Fortify Software Security Center) (SSC) & OpenText Fortify ScanCentral SAST Controller Installer Contributors
+All Rights Reserved
+
+This software and associated documentation files (the "Software") are proprietary 
+and confidential. The Software is provided for internal use only and is not 
+intended for distribution or commercial use.
+
+TERMS AND CONDITIONS:
+
+1. OWNERSHIP
+   The Software and all intellectual property rights therein are and shall remain 
+   the exclusive property of the copyright holders. This license does not transfer 
+   ownership of the Software or any intellectual property rights.
+
+2. GRANT OF LICENSE
+   Subject to the terms and conditions of this Agreement, you are granted a 
+   limited, non-exclusive, non-transferable license to:
+   - Use the Software for internal business purposes only
+   - Modify the Software for internal use
+   - Distribute the Software within your organization only
+
+3. RESTRICTIONS
+   You may not:
+   - Distribute, sell, lease, or otherwise transfer the Software to third parties
+   - Reverse engineer, decompile, or disassemble the Software
+   - Remove or alter any proprietary notices or labels on the Software
+   - Use the Software for any illegal or unauthorized purpose
+   - Sublicense the Software
+
+4. DEPENDENCIES
+   This Software is designed to work with OpenText Fortify products and requires 
+   valid licenses for:
+   - OpenText Fortify Software Security Center (SSC)
+   - OpenText Fortify ScanCentral Controller
+   - Microsoft SQL Server (for database backend)
+   
+   You are responsible for obtaining and maintaining valid licenses for all 
+   required OpenText Fortify products and third-party dependencies.
+
+5. DISCLAIMER OF WARRANTIES
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL 
+   THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, 
+   WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, 
+   OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, 
+   SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, 
+   PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; 
+   OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
+   WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR 
+   OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF 
+   ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+7. TERMINATION
+   This license is effective until terminated. Your rights under this license 
+   will terminate automatically without notice if you fail to comply with any 
+   of its terms and conditions. Upon termination, you must cease all use of 
+   the Software and destroy all copies.
+
+8. GOVERNING LAW
+   This Agreement shall be governed by and construed in accordance with the 
+   laws of the jurisdiction in which the copyright holders are located, without 
+   regard to its conflict of law provisions.
+
+9. ENTIRE AGREEMENT
+   This Agreement constitutes the entire agreement between the parties concerning 
+   the subject matter hereof and supersedes all prior or contemporaneous 
+   agreements, whether written or oral, relating to such subject matter.
+
+10. SEVERABILITY
+    If any provision of this Agreement is held to be invalid or unenforceable, 
+    the remaining provisions shall continue in full force and effect.
+
+11. THIRD-PARTY SOFTWARE
+    This Software may include third-party open source components. Such components 
+    are subject to their respective licenses, which are separate from this 
+    Agreement. You must comply with all applicable third-party licenses.
+
+12. UPDATES AND MODIFICATIONS
+    The copyright holders reserve the right to modify this license at any time. 
+    Continued use of the Software after such modifications constitutes acceptance 
+    of the updated terms.
+
+For questions regarding this license, please contact the project maintainers.
+
+---
+
+NOTICE: This Software is designed to work with OpenText Fortify products. 
+OpenText Fortify is a trademark of OpenText Corporation. This project is not 
+affiliated with, endorsed by, or sponsored by OpenText Corporation.
+
+Last updated: January 2025 
